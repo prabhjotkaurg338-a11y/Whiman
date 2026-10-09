@@ -1,0 +1,6 @@
+{
+  "name": "WearWhim AI",
+  "description": "Fashion styling and wardrobe companion with AI recommendations, personalized color palettes, and curated outfit suggestions that suit you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
